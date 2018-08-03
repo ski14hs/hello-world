@@ -1,0 +1,31 @@
+header{
+    background-color: black;
+}
+
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+a{
+    color: red;
+}
+
+p{
+    text-align: left;
+}
+
+.contact{
+    float: right;
+    background-color: beige;
+}
+
+.left{
+    float: left;
+    background-color: beige;
+}
+
+.main{
+    background-color: beige;
+}
